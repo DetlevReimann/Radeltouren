@@ -21,8 +21,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:radtour-hienheim-1402026
 DTSTAMP;TZID=Europe/Berlin:20260116T090000
-DTSTART;TZID=Europe/Berlin:20260514T083000
-DTEND;TZID=Europe/Berlin:20260514T180000
+DTSTART;TZID=Europe/Berlin:20270506T083000
+DTEND;TZID=Europe/Berlin:20270506T180000
 SUMMARY:Radtour Hienheim – Riedenburg – Altmannstein
 DESCRIPTION:Geführte Radtour über Hienheim, Felsenhäusl, Riedenburg, Schambachtal.
 LOCATION:Pentling, Hölkeringer Str., Parkplatz V-Markt
