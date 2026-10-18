@@ -21,8 +21,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:radtour-Vorwald-06092026
 DTSTAMP;TZID=Europe/Berlin:20260116T090000
-DTSTART;TZID=Europe/Berlin:20260906T090000
-DTEND;TZID=Europe/Berlin:20260906T190000
+DTSTART;TZID=Europe/Berlin:20270905T090000
+DTEND;TZID=Europe/Berlin:20270905T190000
 SUMMARY:Radtour Schneitweg – Jugenberg – Nittenau - Hauzendorf
 DESCRIPTION:Geführte Radtour von Regensburg über Schneitweg, Grafenwinn, Nittenau und Hauzendorf.
 LOCATION:Parkplatz Donauarena
